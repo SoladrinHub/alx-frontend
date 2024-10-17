@@ -1,3 +1,2 @@
-.fa-download:before {
+.fa-download:before 
     content: "\f019"
-}
